@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SLAMNOTH
 - 👀 I’m interested in webhosting and building
 - 🌱 I’m from the Netherlands
-- 💞️ I’m looking to collaborate on sol4bio
+- 💞️ I’m looking to collaborate on BrianGPT
 - 📫 How to reach me davyliebe@daavs.org
 
 <!---
