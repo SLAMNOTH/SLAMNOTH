@@ -2,7 +2,7 @@
 - 👀 I’m interested in webhosting and building
 - 🌱 I’m from the Netherlands
 - 💞️ I’m looking to collaborate on BrianGPT
-- 📫 How to reach me davyliebe@daavs.org
+- 📫 How to reach me contact@davyliebe.nl
 
 <!---
 SLAMNOTH/SLAMNOTH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
